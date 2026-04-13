@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .gallery one-word domains from Uni
 
 **Public extract:** 8,746 rows · **Live catalog:** 8,746 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/gallery`  
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | hotel.gallery     | premium   | $85.80    | $85.80        | 70             | 45     | 5      | namecheap                                                 |
 | agile.gallery     | available | $36.98    | —             | 92             | 41     | 5      | namecheap                                                 |
 | open.gallery      | resell    | —         | —             | 106            | 60     | 4      | Dynadot Inc                                               |
-| nice.gallery      | premium   | $82.50    | $82.50        | 86             | 44     | 4      | name.com                                                  |
+| mix.gallery       | premium   | $123.75   | $123.75       | 66             | 45     | 3      | name.com                                                  |
 | dark.gallery      | available | $36.98    | —             | 52             | 40     | 4      | namecheap                                                 |
 | dot.gallery       | resell    | —         | —             | 74             | 58     | 3      | NameCheap, Inc.                                           |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
