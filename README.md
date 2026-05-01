@@ -1,10 +1,10 @@
-# Available .GALLERY One-Word Domains (11,057)
+# Available .GALLERY One-Word Domains (11,617)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C057%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C617%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gallery one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,057 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,617 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,057 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,617 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/gallery`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | payments.gallery   | available | $36.98    | —             | 58             | 33     | 8      | namecheap        |
-| agents.gallery     | resell    | —         | —             | 56             | 50     | 6      | Spaceship, Inc.  |
+| popup.gallery      | resell    | —         | —             | 84             | 29     | 6      | Spaceship, Inc.  |
 | dogs.gallery       | premium   | $500      | —             | 76             | 28     | 4      | name.com         |
 | letsgo.gallery     | available | $36.98    | —             | 57             | 31     | 7      | namecheap        |
-| popup.gallery      | resell    | —         | —             | 84             | 29     | 6      | Spaceship, Inc.  |
-| pages.gallery      | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
-| gems.gallery       | available | $28.99    | $28.99        | 70             | 28     | 4      | namesilo         |
 | photos.gallery     | resell    | —         | —             | 54             | 28     | 6      | Dynadot Inc      |
 | systems.gallery    | premium   | $123.75   | —             | 46             | 27     | 7      | name.com         |
-| bees.gallery       | available | $36.98    | —             | 54             | 27     | 4      | namecheap        |
+| gems.gallery       | available | $28.99    | $28.99        | 70             | 28     | 4      | namesilo         |
 | comics.gallery     | resell    | —         | —             | 68             | 24     | 6      | GoDaddy.com, LLC |
+| toys.gallery       | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo         |
+| bees.gallery       | available | $36.98    | —             | 54             | 27     | 4      | namecheap        |
+| Places.gallery     | resell    | —         | —             | 74             | 22     | 6      | GoDaddy.com, LLC |
 | girls.gallery      | premium   | $82.50    | —             | 83             | 23     | 5      | name.com         |
 | Trex.gallery       | available | $36.98    | —             | 80             | 24     | 5      | namecheap        |
-| Places.gallery     | resell    | —         | —             | 74             | 22     | 6      | GoDaddy.com, LLC |
 | flights.gallery    | premium   | $118.80   | $118.80       | 61             | 22     | 7      | namesilo         |
-| motorsport.gallery | available | $36.98    | —             | 74             | 23     | 10     | namecheap        |
+| gamers.gallery     | available | $28.99    | $28.99        | 62             | 24     | 6      | namesilo         |
+| webs.gallery       | premium   | $78.54    | $78.54        | 56             | 21     | 4      | namesilo         |
+| holidays.gallery   | available | $28.99    | $28.99        | 78             | 23     | 8      | namesilo         |
 | rocks.gallery      | premium   | $82.50    | —             | 78             | 18     | 5      | name.com         |
-| investors.gallery  | available | $36.98    | —             | 60             | 23     | 9      | namecheap        |
+| motorsport.gallery | available | $36.98    | —             | 74             | 23     | 10     | namecheap        |
 | states.gallery     | premium   | $82.50    | —             | 70             | 16     | 6      | name.com         |
-| CapeCod.gallery    | available | $36.98    | —             | 78             | 22     | 8      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,057 live domains                              |
+| 1,000-row public sample | 11,617 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
