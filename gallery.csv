@@ -693,6 +693,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3c6c47cc-964b-40b3-a9b6-9ad069001e19,finalsweek.gallery,available,36.98,,52,1,11,namecheap,,
 3c7dafbd-eeaf-451a-b969-e209c38d48fa,getroundto.gallery,available,36.98,,74,1,12,namecheap,,
 3c83b2d0-fc97-4a31-9473-7f0d867159bc,getaways.gallery,available,36.98,,50,9,8,namecheap,,
+3ca12e50-be2d-4aec-bcb1-601f88b87788,pace.gallery,resell,,,68,35,4,"GoDaddy.com, LLC",21/10/2025 21:42,21/10/2026 21:42
 3ceaa688-5f70-4817-a279-768969661606,plaques.gallery,available,28.99,28.99,42,5,7,namesilo,,
 3cedbf2f-715c-43d7-89b5-66447a213258,getthroughto.gallery,available,36.98,,49,1,14,namecheap,,
 3d5ebb42-5cc7-408b-a335-67425cbe22d5,deaths.gallery,available,28.99,28.99,50,6,6,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5748f018-aaf1-4620-8e1d-a0be8bb60c4e,requesting.gallery,available,36.98,,49,5,10,namecheap,,
 575da975-3222-4245-9b81-6b8e1c6f1ffb,inthewind.gallery,available,36.98,,52,2,11,namecheap,,
 57a0ad40-acc3-49ad-b23e-d686ad526833,pickover.gallery,available,36.98,,62,1,9,namecheap,,
-57b00bbe-1c09-4787-a102-8dea982b32dd,desktops.gallery,available,28.99,28.99,62,6,8,namesilo,,

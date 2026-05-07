@@ -65,25 +65,25 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | payments.gallery   | available | $36.98    | —             | 58             | 33     | 8      | namecheap        |
-| popup.gallery      | resell    | —         | —             | 84             | 29     | 6      | Spaceship, Inc.  |
+| pace.gallery       | resell    | —         | —             | 68             | 35     | 4      | GoDaddy.com, LLC |
 | dogs.gallery       | premium   | $500      | —             | 76             | 28     | 4      | name.com         |
 | letsgo.gallery     | available | $36.98    | —             | 57             | 31     | 7      | namecheap        |
-| photos.gallery     | resell    | —         | —             | 54             | 28     | 6      | Dynadot Inc      |
+| popup.gallery      | resell    | —         | —             | 84             | 29     | 6      | Spaceship, Inc.  |
 | systems.gallery    | premium   | $123.75   | —             | 46             | 27     | 7      | name.com         |
 | gems.gallery       | available | $28.99    | $28.99        | 70             | 28     | 4      | namesilo         |
-| comics.gallery     | resell    | —         | —             | 68             | 24     | 6      | GoDaddy.com, LLC |
+| photos.gallery     | resell    | —         | —             | 54             | 28     | 6      | Dynadot Inc      |
 | toys.gallery       | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo         |
 | bees.gallery       | available | $36.98    | —             | 54             | 27     | 4      | namecheap        |
-| Places.gallery     | resell    | —         | —             | 74             | 22     | 6      | GoDaddy.com, LLC |
+| comics.gallery     | resell    | —         | —             | 68             | 24     | 6      | GoDaddy.com, LLC |
 | girls.gallery      | premium   | $82.50    | —             | 83             | 23     | 5      | name.com         |
 | Trex.gallery       | available | $36.98    | —             | 80             | 24     | 5      | namecheap        |
+| Places.gallery     | resell    | —         | —             | 74             | 22     | 6      | GoDaddy.com, LLC |
 | flights.gallery    | premium   | $118.80   | $118.80       | 61             | 22     | 7      | namesilo         |
 | gamers.gallery     | available | $28.99    | $28.99        | 62             | 24     | 6      | namesilo         |
 | webs.gallery       | premium   | $78.54    | $78.54        | 56             | 21     | 4      | namesilo         |
 | holidays.gallery   | available | $28.99    | $28.99        | 78             | 23     | 8      | namesilo         |
 | rocks.gallery      | premium   | $82.50    | —             | 78             | 18     | 5      | name.com         |
 | motorsport.gallery | available | $36.98    | —             | 74             | 23     | 10     | namecheap        |
-| states.gallery     | premium   | $82.50    | —             | 70             | 16     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
