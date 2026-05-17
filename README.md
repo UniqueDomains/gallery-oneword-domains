@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gallery one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,623 domains · **Median ask:** $37.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/gallery`  
 **Best for:** founders, investors, studios
 
@@ -68,13 +68,13 @@ print(df.head())
 | pace.gallery       | resell    | —         | —             | 68             | 35     | 4      | GoDaddy.com, LLC |
 | dogs.gallery       | premium   | $500      | —             | 76             | 28     | 4      | name.com         |
 | letsgo.gallery     | available | $36.98    | —             | 57             | 31     | 7      | namecheap        |
-| popup.gallery      | resell    | —         | —             | 84             | 29     | 6      | Spaceship, Inc.  |
+| popup.gallery      | resell    | —         | —             | 84             | 28     | 6      | Spaceship, Inc.  |
 | systems.gallery    | premium   | $123.75   | —             | 46             | 27     | 7      | name.com         |
 | gems.gallery       | available | $28.99    | $28.99        | 70             | 28     | 4      | namesilo         |
 | photos.gallery     | resell    | —         | —             | 54             | 28     | 6      | Dynadot Inc      |
 | toys.gallery       | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo         |
 | bees.gallery       | available | $36.98    | —             | 54             | 27     | 4      | namecheap        |
-| comics.gallery     | resell    | —         | —             | 68             | 24     | 6      | GoDaddy.com, LLC |
+| comics.gallery     | resell    | —         | —             | 68             | 23     | 6      | GoDaddy.com, LLC |
 | girls.gallery      | premium   | $82.50    | —             | 83             | 23     | 5      | name.com         |
 | Trex.gallery       | available | $36.98    | —             | 80             | 24     | 5      | namecheap        |
 | Places.gallery     | resell    | —         | —             | 74             | 22     | 6      | GoDaddy.com, LLC |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
