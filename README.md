@@ -1,10 +1,10 @@
-# Available .GALLERY One-Word Domains (11,623)
+# Available .GALLERY One-Word Domains (11,624)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C623%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C624%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .gallery one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,623 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,624 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,623 domains · **Median ask:** $37.12 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,624 domains · **Median ask:** $34.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/gallery`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/gallery`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GALLERY one-word doma
 
 ### Files
 
-- `gallery.csv` — public CSV extract (1,000 rows)
-- `gallery.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `gallery.csv`, public CSV extract (1,000 rows)
+- `gallery.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| payments.gallery   | available | $36.98    | —             | 58             | 33     | 8      | namecheap        |
-| pace.gallery       | resell    | —         | —             | 68             | 35     | 4      | GoDaddy.com, LLC |
-| dogs.gallery       | premium   | $500      | —             | 76             | 28     | 4      | name.com         |
-| letsgo.gallery     | available | $36.98    | —             | 57             | 31     | 7      | namecheap        |
-| popup.gallery      | resell    | —         | —             | 84             | 28     | 6      | Spaceship, Inc.  |
-| systems.gallery    | premium   | $123.75   | —             | 46             | 27     | 7      | name.com         |
-| gems.gallery       | available | $28.99    | $28.99        | 70             | 28     | 4      | namesilo         |
-| photos.gallery     | resell    | —         | —             | 54             | 28     | 6      | Dynadot Inc      |
-| toys.gallery       | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo         |
-| bees.gallery       | available | $36.98    | —             | 54             | 27     | 4      | namecheap        |
-| Places.gallery     | resell    | —         | —             | 74             | 23     | 6      | GoDaddy.com, LLC |
-| girls.gallery      | premium   | $82.50    | —             | 83             | 23     | 5      | name.com         |
-| Trex.gallery       | available | $36.98    | —             | 80             | 24     | 5      | namecheap        |
-| comics.gallery     | resell    | —         | —             | 68             | 23     | 6      | GoDaddy.com, LLC |
-| flights.gallery    | premium   | $118.80   | $118.80       | 61             | 22     | 7      | namesilo         |
-| gamers.gallery     | available | $28.99    | $28.99        | 62             | 24     | 6      | namesilo         |
-| webs.gallery       | premium   | $78.54    | $78.54        | 56             | 21     | 4      | namesilo         |
-| holidays.gallery   | available | $28.99    | $28.99        | 78             | 23     | 8      | namesilo         |
-| rocks.gallery      | premium   | $82.50    | —             | 78             | 18     | 5      | name.com         |
-| motorsport.gallery | available | $36.98    | —             | 74             | 23     | 10     | namecheap        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| UML.gallery    | available | $28.99    | $28.99        | high           | low    | 3      | namesilo                                                  |
+| pin.gallery    | resell    | —         | —             | high           | low    | 3      | Key-Systems, LLC                                          |
+| add.gallery    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| UPC.gallery    | available | $28.99    | $28.99        | high           | low    | 3      | namesilo                                                  |
+| lost.gallery   | resell    | —         | —             | medium         | low    | 4      | united-domains GmbH                                       |
+| ale.gallery    | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
+| yur.gallery    | available | $28.99    | $28.99        | high           | low    | 3      | namesilo                                                  |
+| that.gallery   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
+| and.gallery    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| acts.gallery   | available | $28.99    | $28.99        | medium         | low    | 4      | namesilo                                                  |
+| comic.gallery  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
+| Ann.gallery    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| aide.gallery   | available | $28.99    | $28.99        | high           | low    | 4      | namesilo                                                  |
+| movie.gallery  | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ask.gallery    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| aunt.gallery   | available | $28.99    | $28.99        | high           | low    | 4      | namesilo                                                  |
+| speed.gallery  | resell    | —         | —             | high           | low    | 5      | united-domains GmbH                                       |
+| bob.gallery    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| bath.gallery   | available | $28.99    | $28.99        | high           | low    | 4      | namesilo                                                  |
+| secret.gallery | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,623 live domains                        |
+| 1,000-row public sample | 11,624 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .gallery domains. The set spans concrete words such as skirt.gallery and rest.gallery, broader brandable terms like friend.gallery and intrinsic.gallery, and more unusual options such as dignitary.gallery or surrender.gallery. For founders, the main question is whether the word feels naturally connected to an image-led, curated, or exhibition-oriented brand. For investors, the key test is whether the word is simple, recognizable, and commercially reusable within the constraints of a niche TLD. When comparing these domains, weigh word clarity, memorability, pricing discipline, and whether the .gallery ending strengthens or weakens the meaning.
+This selection covers one-word domain names on the .gallery extension, drawn from a pool of 11,624 entries with a median ask of $34.85. The list favors short, memorable words and phrases such as pictures.gallery, apples.gallery, and takeabreak.gallery, spanning everyday nouns, verbs, and compound phrases rather than niche jargon. Because .gallery reads naturally for art, photography, portfolio, and curation-style brands, these names suit founders building a visual or creative identity as well as investors scanning a low-cost extension for volume and pricing patterns. When comparing entries in this list, weigh word length, spelling simplicity, and how directly each name signals a gallery or showcase use case.
 
-- The full set uses the .gallery extension only
-- 11,620 one-word domains in this selection
-- Median ask across the set is 37.12
-- Best fits are words that pair naturally with .gallery
+- 11,624 one-word .gallery domain names in this list
+- Median ask of $34.85 across the selection
+- Short, everyday words like pictures, apples, takeabreak
+- Fits art, photography, portfolio, and showcase brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
