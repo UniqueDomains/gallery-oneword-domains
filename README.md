@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gallery one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,295 domains · **Median ask:** $31.16 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/gallery`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | that.gallery  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
 | ann.gallery   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
 | upc.gallery   | available | $28.99    | $28.99        | high           | low    | 3      | namesilo                                                  |
-| comic.gallery | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
+| green.gallery | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                               |
 | ask.gallery   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
 | yur.gallery   | available | $28.99    | $28.99        | high           | low    | 3      | namesilo                                                  |
-| green.gallery | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                               |
+| movie.gallery | resell    | —         | —             | medium         | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | ass.gallery   | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo                                                  |
 | acid.gallery  | available | $28.99    | $28.99        | medium         | low    | 4      | namesilo                                                  |
-| movie.gallery | resell    | —         | —             | medium         | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| speed.gallery | resell    | —         | —             | high           | low    | 5      | united-domains GmbH                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GALLERY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
